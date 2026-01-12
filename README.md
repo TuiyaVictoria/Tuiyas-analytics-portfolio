@@ -7,7 +7,7 @@ Key Achievement: Identified that discounts over 20% were the primary driver of n
 ## [Project 2:Customer Churn Analysis ](https://github.com/TuiyaVictoria/customer-churn-analysis)
 Project Feature: Customer Churn Analysis (SQL)
 Analyzed customer churn data for a subscription-based company using SQL to identify key drivers of customer attrition. The project examined churn patterns across contract types, customer tenure, pricing, internet services, and payment methods. Insights were translated into actionable business recommendations aimed at improving customer retention and reducing churn.
-## [Project 2:Customer Segmentation using RFM Analysis ](https://github.com/TuiyaVictoria/Customer-Segmentation-Analysis)
+## [Project 3:Customer Segmentation using RFM Analysis ](https://github.com/TuiyaVictoria/Customer-Segmentation-Analysis)
  Project Feature: Customer Segmentation using RFM Analysis
 The Problem: The business struggles to Identify their most valuable customers so as allocate marketing resources effectively
 The solution: Using historical transaction data, this project segments customers based on purchase behavior to answer: Who are our best customers? Which customers are at risk? Where should the business focus retention efforts?
